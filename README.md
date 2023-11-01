@@ -3,7 +3,7 @@ gaming all the way
 
 <a href="https://www.gamerog.com">Gamerog</a>
 
-<h2The League of Legends Ranked Structure</h2>
+<h2>The League of Legends Ranked Structure</h2>
 <p>League of Legends features an intricate ranking system consisting of nine major tiers, each of which is divided into four divisions, with the exception of the top three tiers. Here’s a breakdown of the ranks in the game:
 
 Iron (IV, III, II, I): Iron is where many players start their ranked journey, and the Iron ranks are a testament to the beginning of that adventure.
